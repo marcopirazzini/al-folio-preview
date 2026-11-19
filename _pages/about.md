@@ -13,9 +13,6 @@ profile:
     <p style="display: block; white-space: nowrap"><a href="https://github.com/marcopirazzini" title="GitHub"><i class="fa-brands fa-github"></i> github.com/marcopirazzini</a></p>
     <p style="display: block"><a href="https://www.linkedin.com/in/marco-pirazzini-40619a134/" title="LinkedIn"><i class="fa-brands fa-linkedin"></i> LinkedIn</a></p>
 
-
-
-
 # <a href="https://scholar.google.com/citations?user=YOUR_ID" title="Google Scholar"><i class="ai ai-google-scholar"></i> Scholar</a> ·
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
