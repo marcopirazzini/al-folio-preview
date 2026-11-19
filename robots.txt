@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://marcopirazzini.github.io/al-folio-preview/sitemap.xml
+Sitemap: https://marcopirazzini.github.io/sitemap.xml
