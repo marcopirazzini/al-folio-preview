@@ -31,7 +31,7 @@ latest_posts:
 
 I am a final year PhD Student in the [Department of Computer Science](https://engineering.yale.edu/academic-study/departments/computer-science) at Yale University, where I am fortunate to be advised by [Dan Spielman](https://www.cs.yale.edu/homes/spielman/). Prior to this, I completed a MSc in Data Science under the supervision of [Luca Trevisan](https://lucatrevisan.github.io/) at Bocconi University.
 
-I am broadly interested in theoretical computer science, in particular the design and analysis of approximation algorithms. More recently, I have been interested in combining the lenses of theory and automated discovery for the design of _practical algorithms_, particularly for problems in numerical linear algebra and optimization.
+I am broadly interested in theoretical computer science, in particular spectral graph theory and the design and analysis of approximation algorithms. More recently, I have been interested in combining the lenses of theory and automated discovery for the design of _practical algorithms_, particularly for problems in numerical linear algebra and optimization.
 
 **I am looking for postdocs or industry research positions starting Summer/Fall 2027**
 {: style="font-size: 1.2rem"}
